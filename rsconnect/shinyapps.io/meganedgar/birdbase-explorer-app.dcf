@@ -1,0 +1,12 @@
+name: birdbase-explorer-app
+title: birdbase-explorer-app
+username: meganedgar
+account: meganedgar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16008850
+bundleId: 11151743
+url: https://meganedgar.shinyapps.io/birdbase-explorer-app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
